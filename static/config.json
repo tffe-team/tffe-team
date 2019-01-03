@@ -1,9 +1,9 @@
 {
     "javascript": [
         "./static/js/vendor.dll.bfad3a7cd8ed3e114726.js",
-        "./static/js/case.f5a4a55eae0c72d30110.js"
+        "/static/js/case.f345e7698587edc00315.js"
     ],
     "css": [
-        "./static/css/case.d65447df72a7a6654cdd.css"
+        "/static/css/case.d65447df72a7a6654cdd.css"
     ]
 }
