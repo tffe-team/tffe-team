@@ -1,0 +1,1 @@
+{"version":3,"sources":["5.8b138c596485e5adbb29.css"],"names":[],"mappings":"AAAA,IACE,eAAgB,AAChB,eAAgB,AAChB,cAAe,AACf,mBAAqB,AACrB,qBAAsB,AACtB,0BAA4B,CAC7B","file":"5.8b138c596485e5adbb29.css","sourcesContent":["pre {\n  padding: 1.5rem;\n  margin-right: 0;\n  margin-left: 0;\n  border-width: 0.2rem;\n  border: solid #f8f9fa;\n  background-color: #f8f9fa4a;\n}\n\n"]}

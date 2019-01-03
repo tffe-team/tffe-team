@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"763j":function(n,t,e){"use strict";e.r(t);var s=e("OmF7"),u=e("Kn4q"),a=e("YK4N"),i=e.n(a),l=function(n){function t(){return null!==n&&n.apply(this,arguments)||this}return s.b(t,n),s.a([i.a],t)}(u.default),r=e("BI9D"),c=Object(r.a)(l,function(){var n=this.$createElement,t=this._self._c||n;return t("div",{staticClass:"m-case-base"},[t("router-view")],1)},[],!1,null,null,null);c.options.__file="Base.vue",t.default=c.exports}}]);
+//# sourceMappingURL=12.caf0e0956c4c0fd246c6.js.map
